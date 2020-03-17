@@ -1,21 +1,11 @@
 The Markdown Resume
 ===================
 
-### Instructions
-```bash
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim markdown/resume.md   # insert your own resume info
-make
-```
+Cloned from <https://github.com/mszep/pandoc_resume>, with corresponding website: <https://mszep.github.io/pandoc_resume/>.
 
-### Running Dockerized
-```bash
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim markdown/resume.md   # insert your own resume info
-docker-compose up -d
-```
+These were based on the blog post: <https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html>, which also has
+a corresponding repo: <https://github.com/chmduquesne/resume>
+
 
 ### Requirements
 
