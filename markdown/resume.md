@@ -1,100 +1,74 @@
-Johnny Coder
-============
+Brian Bonsignore
+=========================
+
+----
+> <bonsignore.brian@gmail.com> • +916 801 6798 • \
+>  105 Lantern Way, Carrboro NC, 27510
+> [GitHub](https://github.com/bbonsign)
+----
+
+>  Specialties: Python, JavaScript, Django, Linux, \
+>  Doctor in Mathematics
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Corporate Experience
+--------------------
 
-----
+August 2018 - January 2020
+:   *Math Tutor for [Sylvan Learning](https://www.sylvanlearning.com/)*
+    (Cary, NC).
+
+    I tutor up to three students at a time, but interacting with each
+    individually, in the more advanced math topics that Sylvan provides
+    support for, which is predominately high school math topics up through
+    AP calculus AB/BC and SAT/ACT math preparation.
+    Occasionally I will work with elementary school students
+    (or high schoolers in need of remedial help) on arithmetic fundamentals.
+    I keep detailed records of each session with a student to track progress
+    and provide feedback for parents.
+
+
+
+
+
+Selected Open Source Contributions
+----------------------------------
+
+
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2003-2017
+:   *PhD in Mathematics* University of Georgia
+    (Athens, GA).
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Title: Cohomological n-Equivalence of Differential Graded Algebras
+    Advisor: Robert Varley
+    Defended in April 2017.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2010-2013
+:   *M.A. in Mathematics* University of Georgia
+    (Athens, GA).
 
-    *Minor: Awesomeology*
 
-Experience
-----------
+2006-2010
+:   *B.A. in Mathematics* University of California, Berkeley
+    (Berkeley, CA).
 
-**Your Most Recent Work Experience:**
+    Graduated with honors and a 3.9 GPA.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
+Activities and interests
+------------------------
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Hobbies
+:   I like travelling and camping. I like playing guitar and
+    reading in my spare time.
 
-**That Other Job You Had**
+Sports
+:   Cycling, Hiking.
 
-Also with a short description.
 
-Technical Experience
---------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
