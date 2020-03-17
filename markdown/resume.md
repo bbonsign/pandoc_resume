@@ -64,7 +64,7 @@ Activities and interests
 ------------------------
 
 Hobbies
-:   I like travelling and camping. I like playing guitar and
+:   I like traveling and camping. I like playing guitar and
     reading in my spare time.
 
 Sports
