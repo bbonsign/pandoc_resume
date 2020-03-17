@@ -1,4 +1,3 @@
-
 /*
  * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
  *
@@ -22,7 +21,7 @@ body {
 
 h1 {
     font-size: 55px;
-    color: #757575;
+    color: #14346e;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -31,7 +30,7 @@ h1 {
 
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
+    color: #2d4b83;
 }
 
 /* There is a bar just before each category */
@@ -43,10 +42,8 @@ h2:before {
     width: 16%;
     height: 10px;
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
+    background-color: rgb(112, 137, 183);
 }
-
-
 
 /* Definitions */
 
@@ -77,20 +74,14 @@ blockquote {
 
 a {
     text-decoration: none;
-    color: #397249;
+    color: #002486;
 }
 
-a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
-}
 
 /* Horizontal separators */
 
 hr {
-    color: #A6A6A6;
+    color: rgb(79, 89, 100);
 }
 
 table {
