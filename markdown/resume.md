@@ -14,10 +14,15 @@ January 2020 - April 2020
 :   **Momentum Learning** (Durham, NC)
     Dedicated 12-weeks specializing in highly focused, immersive training centered on Python/Django language fluency, object-oriented programming, and project-based learning.
     Web Development
+
     * Programming full-stack web applications with Python and Django
+
     * Working with Git version control in a collaborative environment
+
     * Developing class projects with object-oriented programming to organize and modularize features
+
     * Mentoring fellow students and reviewing their code in a way that leads them to greater understanding of programming concepts
+
     * Pair-programming in an agile environment to implement full stack applications
 
 
@@ -59,7 +64,7 @@ January 2014 - May 2014
     * Effectively interacted with students via chat rooms, answering questions and writing notes to study from
 
 January 2009 - May 2010
-:   Math Tutor}{UC Berkeley Student Learning Center}{}{}{
+:   **Math Tutor** UC Berkeley Student Learning Center
 
     * I tutored younger undergraduates on campus in calculus, discrete math, and linear algebra during my junior and senior years
     * The tutoring position also included training on how to engage students effectively
