@@ -3,7 +3,7 @@ Brian Bonsignore
 
 ----
 
-**Skills**: Python | JavaScript | Django | Git | PhD Mathematics
+**Skills**: Python | JavaScript | Django | Git | PhD in Mathematics
 
 ----
 
