@@ -1,11 +1,12 @@
 Brian Bonsignore
 =========================
+> • <bonsignore.brian@gmail.com> • [https://github.com/bbonsign](https://github.com/bbonsign) •
+> • 916 801 6798 • 105 Lantern Way, Carrboro NC, 27510 •
 
-----
+-------------------------------------------------------------------------------
 
-**Skills**: Python | JavaScript | Django | Git | PhD in Mathematics
+**Skills**: Python | JavaScript | Django | Git | Vue.js | Remote Collaboration
 
-----
 
 Experience
 ----------
@@ -13,7 +14,8 @@ Experience
 Jan 2020 - April 2020
 :   **Momentum Learning** (Durham, NC)
 
-    Dedicated 12-week program specializing in highly focused, immersive training centered on Python/Django language fluency, object-oriented programming, and project-based learning.
+    Dedicated 12-week program specializing in highly focused, immersive training centered on Python/Django language fluency,
+    object-oriented programming, and project-based learning.
 
     * Programmed full-stack web applications with Python and Django
 
@@ -21,9 +23,11 @@ Jan 2020 - April 2020
 
     * Developed class projects with object-oriented programming to organize and modularize features
 
-    * Mentored fellow students and reviewing their code in a way that leads them to greater understanding of programming concepts
+    * Mentored fellow students and reviewed their code in a way that led them to greater understanding of programming concepts
 
     * Pair-programed in an agile environment to implement full stack applications
+
+    * Created a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>)
 
 
 Aug 2018 - January 2020
@@ -44,9 +48,11 @@ Aug 2011 - May 2018
 
     * Hired as a full-time instructor for the 2017-2018 academic year after graduating with a PhD
 
-    * Part-time instructor until while I was a grad student as part of my support, with the same responsibilities of a full-time instructor, but a smaller teaching load
+    * Part-time instructor until while I was a grad student as part of my support, with the same responsibilities of
+    a full-time instructor, but a smaller teaching load
 
-    * Responsible for managing time effectively, delivering lectures, preparing and grading tests/assignments, and responding to student feedback
+    * Responsible for managing time effectively, delivering lectures, preparing and grading tests/assignments,
+    and responding to student feedback
 
     * Prepared me for working well with others and quickly learning technical concepts with a eye towards helping others
 
@@ -54,9 +60,11 @@ Aug 2011 - May 2018
 Aug 2015 - May 2016
 :   **Writing Intensive Program Teaching Assistant** University of Georgia
 
-    The Writing Intensive Program was an inter-department opportunity for graduate students to learn how to emphasize aspects of writing that are unique to their discipline
+    The Writing Intensive Program was an inter-department opportunity for graduate students to learn how to emphasize
+    aspects of writing that are unique to their discipline
 
-    * Created and graded assignments with professors meant to challenge students to write logical responses, as opposed to only computing a solution
+    * Created and graded assignments with professors meant to challenge students to write logical responses, as opposed
+    to only computing a solution
 
 
 
@@ -114,13 +122,10 @@ Education
 
     * Graduated with honors and a 3.9 GPA.
 
-    * Received the _Percy Lionel Davis Award for Excellence in Scholarship in Mathematics_
+    * _Percy Lionel Davis Award for Excellence in Scholarship in Mathematics_
 
 
-----
-
-> • <bonsignore.brian@gmail.com> • [![GitHub][GitHubIcon] https://github.com/bbonsign](https://github.com/bbonsign) • \
-• 916 801 6798 • 105 Lantern Way, Carrboro NC, 27510 •
 
 
-[GitHubIcon]: ../github-icon.svg
+<!-- > • <bonsignore.brian@gmail.com> • [![GitHub][GitHubIcon] https://github.com/bbonsign](https://github.com/bbonsign) • \ -->
+<!-- [GitHubIcon]: ../github-icon.svg -->
