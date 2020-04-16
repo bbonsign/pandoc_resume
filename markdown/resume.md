@@ -19,15 +19,16 @@ Jan 2020 - April 2020
 
     * Programmed full-stack web applications with Python and Django
 
-    * Worked with Git version control in a collaborative environment
+    * Worked with Git and GitHub in a collaborative environment
 
     * Developed class projects with object-oriented programming to organize and modularize features
 
     * Mentored fellow students and reviewed their code in a way that led them to greater understanding of programming concepts
 
-    * Pair-programed in an agile environment to implement full stack applications
+    * Pair-programed in an agile environment, both in person and remotely 
 
-    * Created a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>)
+    * Created a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>), 
+    while working on a remote team
 
 
 Aug 2018 - January 2020
