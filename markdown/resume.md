@@ -77,7 +77,7 @@ Jan 2014 - May 2014
 
     * Provided feed back and assisted with UGA's pilot program for online math classes with remote students
 
-    * Effectively interacted with students via chat rooms: quickly responded to questions and write study notes
+    * Effectively interacted with students via chat rooms: quickly responded to questions and wrote study notes
 
 Jan 2009 - May 2010
 :   **Math Tutor** UC Berkeley Student Learning Center
