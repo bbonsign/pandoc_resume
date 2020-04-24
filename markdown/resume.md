@@ -98,10 +98,6 @@ July 2016 - Dec 2017
 
 
 
-[comment]: Selected Open Source Contributions
-[comment]: ----------------------------------
-
-
 Education
 ---------
 
