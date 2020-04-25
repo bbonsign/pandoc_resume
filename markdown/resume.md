@@ -1,11 +1,12 @@
 Brian Bonsignore
 =========================
-> • <bonsignore.brian@gmail.com> • [https://github.com/bbonsign](https://github.com/bbonsign) •
-> • 916 801 6798 • 105 Lantern Way, Carrboro NC, 27510 •
+> <bonsignore.brian@gmail.com> • [https://github.com/bbonsign](https://github.com/bbonsign)
+> [https://www.linkedin.com/in/brian-bonsignore/](https://www.linkedin.com/in/brian-bonsignore/)
+> 916 801 6798 • Carrboro NC, 27510
 
 -------------------------------------------------------------------------------
 
-**Skills**: Python | JavaScript | Django | Git | Vue.js | Remote Collaboration
+**Technical Skills**: Python | JavaScript | Django | Git + GitHub | Vue.js | HTML + CSS | Remote Collaboration
 
 
 Experience
@@ -25,37 +26,32 @@ Jan 2020 - April 2020
 
     * Mentored fellow students and reviewed their code in a way that led them to greater understanding of programming concepts
 
-    * Pair-programed in an agile environment, both in person and remotely 
+    * Pair-programmed both in person and remotely 
 
-    * Created a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>), 
-    while working on a remote team
+    * Created and deployed a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>), 
+    while working with a remote team using agile practices
 
 
 Aug 2018 - January 2020
 :   **Advanced Math Tutor for [Sylvan Learning](https://www.sylvanlearning.com/)** (Cary, NC).
 
-    * Tutored high school math topics up through AP calculus AB/BC and SAT/ACT math preparation
+    * Tutored high school math topics up through AP calculus AB/BC and SAT/ACT math preparation with noticeable increases in test scores; 
+    worked with students independently and in groups to personalize the lesson delivery and ensure progress
 
-    * Worked with up to three students at a time, but interacting with each student independently
-
-    * Familiarized myself with elementary and middle school math curricula so I could also work with
-    younger school students
+    * Independently familiarized myself with elementary and middle school math curricula so I could also help younger students
 
     * Kept detailed records of each session with a student to track progress and provide feedback for parents
 
 
 Aug 2011 - May 2018
-:   **Instructor** University of Georgia (Athens, GA)
+:   **Adjunct Professor/Instructor** [University of Georgia](https://www.math.uga.edu/) (Athens, GA)
 
-    * Hired as a full-time instructor for the 2017-2018 academic year after graduating with a PhD
+    * Progressed from part-time instructor of record as a grad student to full-time adjunct professor after earning my degree
 
-    * Part-time instructor until while I was a grad student as part of my support, with the same responsibilities of
-    a full-time instructor, but a smaller teaching load
-
-    * Responsible for managing time effectively, delivering lectures, preparing and grading tests/assignments,
-    and responding to student feedback
-
-    * Prepared me for working well with others and quickly learning technical concepts with a eye towards helping others
+    * Developed curriculum, delivered lectures to 4 classes of ~30 students per semester, prepared and graded tests and assignments 
+    and responded to student feedback
+    
+    * Quickly learned advanced technical concepts and tailored classes to meet students needs while helping them master advanced math concepts
 
 
 Aug 2015 - May 2016
@@ -64,9 +60,8 @@ Aug 2015 - May 2016
     The Writing Intensive Program was an inter-department opportunity for graduate students to learn how to emphasize
     aspects of writing that are unique to their discipline
 
-    * Created and graded assignments with professors meant to challenge students to write logical responses, as opposed
-    to only computing a solution
-
+    * Created and graded assignments that challenged students to answer with clear, mathematical language; developed my ability to think critically
+    about the roadblocks students face.
 
 
 Additional Work Experience
@@ -75,16 +70,14 @@ Additional Work Experience
 Jan 2014 - May 2014
 :   **Online Teaching Assistant** University of Georgia
 
-    * Provided feed back and assisted with UGA's pilot program for online math classes with remote students
-
-    * Effectively interacted with students via chat rooms: quickly responded to questions and wrote study notes
+    * Assisted with UGA's pilot program for online math classes with remote students; communicated with students to answer questions and help them understand difficult concepts
 
 Jan 2009 - May 2010
 :   **Math Tutor** UC Berkeley Student Learning Center
 
-    * Tutored younger undergraduates on campus in calculus, discrete math, and linear algebra during my junior and senior years
+    * Tutored undergraduates in calculus, discrete math, and linear algebra
 
-    * Trained and role-played with other tutors on how to engage students effectively
+    <!-- * Trained and role-played with other tutors on how to engage students effectively -->
 
 
 Volunteer Experience
@@ -92,7 +85,8 @@ Volunteer Experience
 
 July 2016 - Dec 2017
 :   **Volunteer Tutor [U-Lead Athens](https://www.uleadathens.org/)** (Athens, GA)
-    The program provided support, in particular college prep services, for children from immigrant families.
+
+    This program provides support, in particular college prep services, for children from immigrant families.
 
     * Tutored high school students with SAT prep and homework
 
@@ -106,9 +100,7 @@ Education
 
     * Thesis: *Cohomological n-Equivalence of Differential Graded Algebras*
 
-    * Advisor: Robert Varley
-
-    * Defended in April 2017.
+    * Defended in April 2017; Advisor: Robert Varley
 
 2013
 :   **M.A. in Mathematics** University of Georgia (Athens, GA).
@@ -117,7 +109,7 @@ Education
 2010
 :   **B.A. in Mathematics** University of California, Berkeley (Berkeley, CA).
 
-    * Graduated with honors and a 3.9 GPA.
+    * Graduated with honors; 3.9 GPA.
 
     * _Percy Lionel Davis Award for Excellence in Scholarship in Mathematics_
 
@@ -126,3 +118,6 @@ Education
 
 <!-- > • <bonsignore.brian@gmail.com> • [![GitHub][GitHubIcon] https://github.com/bbonsign](https://github.com/bbonsign) • \ -->
 <!-- [GitHubIcon]: ../github-icon.svg -->
+
+<!--  LocalWords:  modularize repo Vue
+ -->
