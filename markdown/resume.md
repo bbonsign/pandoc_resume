@@ -35,8 +35,7 @@ Jan 2020 - April 2020
 Aug 2018 - January 2020
 :   **Advanced Math Tutor for [Sylvan Learning](https://www.sylvanlearning.com/)** (Cary, NC).
 
-    * Tutored high school math topics up through AP calculus AB/BC and SAT/ACT math preparation with noticeable increases in test scores; 
-    worked with students independently and in groups to personalize the lesson delivery and ensure progress
+    * Tutored high school math topics up through AP calculus AB/BC and SAT/ACT math preparation with noticeable increases in test scores; worked with students independently and in groups to personalize the lesson delivery and ensure progress
 
     * Independently familiarized myself with elementary and middle school math curricula so I could also help younger students
 
