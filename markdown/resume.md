@@ -6,7 +6,7 @@ Brian Bonsignore
 
 -------------------------------------------------------------------------------
 
-**Technical Skills**: Python | JavaScript | Django | Git + GitHub | Vue.js | HTML + CSS | Remote Collaboration
+**Technical Skills**: JavaScript | Vue.js | Python | Django | Git + GitHub | SQL | HTML + CSS | Remote Collaboration
 
 
 Experience
