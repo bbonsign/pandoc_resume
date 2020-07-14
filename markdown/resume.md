@@ -6,11 +6,23 @@ Brian Bonsignore
 
 -------------------------------------------------------------------------------
 
-**Technical Skills**: JavaScript | Vue.js | Python | Django | Git + GitHub | SQL | HTML + CSS | Remote Collaboration
+**Technical Skills**: Python | JavaScript | Vue.js | Django | Git + GitHub | SQL | HTML + CSS | Remote Collaboration
 
 
 Experience
 ----------
+
+June 2020 - August 2020
+:   **McKinney** (Durham, NC)
+
+    I am currently working remotely as a developer intern for the McKinney advertising agency.
+
+    * Developed responsive website template using Wordpress and Vue.js to streamline the process of submitting advertising campaigns to awards shows
+
+    * Developed internal Flask app to accept csv files and automate analyses the agency was running manually in Excel
+
+    * Applied GAN machine learning models to experiement with creative applications the rest of the agency to use in ad campaigns
+
 
 Jan 2020 - April 2020
 :   **Momentum Learning** (Durham, NC)
