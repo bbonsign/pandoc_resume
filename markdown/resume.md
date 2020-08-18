@@ -13,19 +13,19 @@ Experience
 ----------
 
 June 2020 - August 2020
-:   **McKinney** (Durham, NC)
+:   **Developer Intern at [McKinney](https://mckinney.com/)** (Durham, NC)
 
-    I am currently working remotely as a developer intern for the McKinney advertising agency.
+    I was the summer developer intern for the McKinney advertising agency. Because of my background, I worked closely with multiple departments, primarily media analytics, creative technology, and the web development team.  The position was entirely remote due to Covid precautions, but was executed efficiently thanks to attentive communication through Zoom, Slack, and BitButcket.
 
     * Developed responsive website template using Wordpress and Vue.js to streamline the process of submitting advertising campaigns to awards shows
 
-    * Developed internal Flask app to accept csv files and automate analyses the agency was running manually in Excel
+    * Applied causal impact analysis models to analyze the effectiveness of ad campaigns for clients and helped develop an internal Flask app to streamline this analysis
 
-    * Applied GAN machine learning models to experiement with creative applications the rest of the agency to use in ad campaigns
+    * Applied GAN machine learning models to experiment with creative applications for the agency to use in ad campaigns
 
 
 Jan 2020 - April 2020
-:   **Momentum Learning** (Durham, NC)
+:   **[Momentum Learning](https://www.momentumlearn.com/)** (Durham, NC)
 
     Dedicated 12-week program specializing in highly focused, immersive training centered on Python/Django language fluency,
     object-oriented programming, and project-based learning.
@@ -38,9 +38,9 @@ Jan 2020 - April 2020
 
     * Mentored fellow students and reviewed their code in a way that led them to greater understanding of programming concepts
 
-    * Pair-programmed both in person and remotely 
+    * Pair-programmed in person and remotely
 
-    * Created and deployed a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>), 
+    * Created and deployed a crossword authoring web app using Vue.js as a final project (repo: <https://github.com/Crossword-Editor/crossword-editor>),
     while working with a remote team using agile practices
 
 
@@ -59,9 +59,9 @@ Aug 2011 - May 2018
 
     * Progressed from part-time instructor of record as a grad student to full-time adjunct professor after earning my degree
 
-    * Developed curriculum, delivered lectures to 4 classes of ~30 students per semester, prepared and graded tests and assignments 
+    * Developed curriculum, delivered lectures to 4 classes of ~30 students per semester, prepared and graded tests and assignments
     and responded to student feedback
-    
+
     * Quickly learned advanced technical concepts and tailored classes to meet students needs while helping them master advanced math concepts
 
 
