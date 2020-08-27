@@ -1,6 +1,6 @@
 Brian Bonsignore
 =========================
-> <bonsignore.brian@gmail.com> • [https://github.com/bbonsign](https://github.com/bbonsign)
+> <bonsignore.brian@gmail.com> • [https://github.com/bbonsign](https://github.com/bbonsign) •
 > [https://www.linkedin.com/in/brian-bonsignore/](https://www.linkedin.com/in/brian-bonsignore/)
 > 916 801 6798 • Carrboro NC, 27510
 
@@ -15,13 +15,13 @@ Experience
 June 2020 - August 2020
 :   **Developer Intern at [McKinney](https://mckinney.com/)** (Durham, NC)
 
-    I was the summer developer intern for the McKinney advertising agency. Because of my background, I worked closely with multiple departments, primarily media analytics, creative technology, and the web development team.  The position was entirely remote due to Covid precautions, but was executed efficiently thanks to attentive communication through Zoom, Slack, and BitButcket.
+    I was the summer developer intern for the McKinney advertising agency. Because of my background, I worked closely with multiple departments: media analytics, creative technology, and web development.  The position was remote due to Covid precautions, but was executed efficiently thanks to attentive communication through Zoom, Slack, and BitButcket.
 
     * Developed responsive website template using Wordpress and Vue.js to streamline the process of submitting advertising campaigns to awards shows
 
-    * Applied causal impact analysis models to analyze the effectiveness of ad campaigns for clients and helped develop an internal Flask app to streamline this analysis
+    * Applied causal impact analysis models using Pandas to analyze the effectiveness of ad campaigns for clients and helped develop an internal Flask app to streamline this analysis
 
-    * Applied GAN machine learning models to experiment with creative applications for the agency to use in ad campaigns
+    * Applied GAN machine learning models to experiment with creative applications for the agency to use in ad campaigns.  Used StyleGAN, Google Colab, and PIL as tools
 
 
 Jan 2020 - April 2020
@@ -30,9 +30,9 @@ Jan 2020 - April 2020
     Dedicated 12-week program specializing in highly focused, immersive training centered on Python/Django language fluency,
     object-oriented programming, and project-based learning.
 
-    * Programmed full-stack web applications with Python and Django
+    * Programmed full-stack web applications with Python, Django, and JavaScript
 
-    * Worked with Git and GitHub in a collaborative environment
+    * Worked collaboratively with Git and GitHub
 
     * Developed class projects with object-oriented programming to organize and modularize features
 
@@ -64,33 +64,7 @@ Aug 2011 - May 2018
 
     * Quickly learned advanced technical concepts and tailored classes to meet students needs while helping them master advanced math concepts
 
-
-Aug 2015 - May 2016
-:   **Writing Intensive Program Teaching Assistant** University of Georgia
-
-    The Writing Intensive Program was an inter-department opportunity for graduate students to learn how to emphasize
-    aspects of writing that are unique to their discipline
-
-    * Created and graded assignments that challenged students to answer with clear, mathematical language; developed my ability to think critically
-    about the roadblocks students face.
-
-
-Additional Work Experience
---------------------------
-
-Jan 2014 - May 2014
-:   **Online Teaching Assistant** University of Georgia
-
-    * Assisted with UGA's pilot program for online math classes with remote students; communicated with students to answer questions and help them understand difficult concepts
-
-Jan 2009 - May 2010
-:   **Math Tutor** UC Berkeley Student Learning Center
-
-    * Tutored undergraduates in calculus, discrete math, and linear algebra
-
-    <!-- * Trained and role-played with other tutors on how to engage students effectively -->
-
-
+<!--
 Volunteer Experience
 --------------------
 
@@ -100,7 +74,7 @@ July 2016 - Dec 2017
     This program provides support, in particular college prep services, for children from immigrant families.
 
     * Tutored high school students with SAT prep and homework
-
+-->
 
 
 Education
